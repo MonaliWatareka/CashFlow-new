@@ -46,4 +46,4 @@ Track your daily income & expenses, categorize spending, set monthly budgets, ge
 1. Clone the repository
 
 ```bash
-https://github.com/MonaliWatareka/Yummy.git
+https://github.com/MonaliWatareka/CashFlow-new.git
