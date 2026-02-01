@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-mergeDebugResources-47:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-main-50:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-mergeDebugResources-47:\\layout\\fragment_categories.xml",
+        "source": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-main-50:\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-mergeDebugResources-47:\\layout\\item_transaction.xml",
+        "source": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-main-50:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-mergeDebugResources-47:\\layout\\dialog_add_transaction.xml",
+        "source": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-main-50:\\layout\\dialog_add_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-mergeDebugResources-47:\\layout\\fragment_budget.xml",
+        "source": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-main-50:\\layout\\fragment_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-mergeDebugResources-47:\\layout\\item_spinner.xml",
+        "source": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-main-50:\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.cashflow.app-mergeDebugResources-47:/layout/item_transaction.xml",
+        "source": "com.example.cashflow.app-main-50:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-mergeDebugResources-47:\\layout\\fragment_transactions.xml",
+        "source": "C:\\Users\\malsh\\.gradle\\daemon\\8.10.2\\com.example.cashflow.app-main-50:\\layout\\fragment_transactions.xml"
+    }
+]
